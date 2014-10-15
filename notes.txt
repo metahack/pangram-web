@@ -1,5 +1,16 @@
 to to:
 
+remove legacy bbedit files
+
+set up ssh keys for github
+
+put key configuration into a gist
+
+add an onclick alert, button color changer
+    in html
+    in main.js
+
+add above alerts to button-style divs
 radio button
 
 checkbox
