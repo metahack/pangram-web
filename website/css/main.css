@@ -1,5 +1,9 @@
+/* EZ */
 
+.foo {
+	color: red;
+}
 
-#title {
-	color:	red;
-	}
+#bar {
+	background-color: gray;
+}
