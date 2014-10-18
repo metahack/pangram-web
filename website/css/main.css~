@@ -7,7 +7,6 @@
 .top-header {
 	font-size: 42px;
 	color: gray;
-	text-align: center;
 
 #bar {
 	background-color: gray;

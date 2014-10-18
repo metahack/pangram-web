@@ -9,10 +9,10 @@
 <script src="js/main.js"></script>
 </head>
 <body onload="onload()">
+<h1>Hi.</h1>
+<br/>
 
-<div class="top-header">metahack.com</div>
-
-<div class="class-foo">Hello.</div>
+<div class="foo">Hello.</div>
 <div id="bar" class="foo">Greetings.</div>
 <br/>
 <div></div>
