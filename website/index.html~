@@ -3,18 +3,20 @@
 <html lang="en">
 <head>
 <meta charsed="utf-8">
-<meta name="description" content="code devil">
-<meta name="author" content="codeDevil">
+<meta name="description" content="metaHack">
+<meta name="author" content="metaHack">
 <link rel="stylesheet" href="css/main.css">
 <script src="js/main.js"></script>
 </head>
 <body onload="onload()">
-<h1 h>.</h1>
-<br/>
 
 <div class="top-header">metahack.com</div>
+<div class="contact">contact at metahack dot com</div>
+<div class="main-text">
+This is where to find my code.
+</div >
 
-<div class="foo">Hello.</div>
+<div class="class-foo">Hello.</div>
 <div id="bar" class="foo">Greetings.</div>
 <br/>
 <div></div>
