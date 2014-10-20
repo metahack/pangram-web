@@ -1,5 +1,13 @@
 /* EZ */
 
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif|Maven+Pro|Gloria+Hallelujah|Frijole);
+/*
+font-family: 'Bree Serif', serif;
+font-family: 'Maven Pro', sans-serif;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Frijole', cursive;
+*/
+
 .class-foo {
 	color: red;
 }
@@ -8,6 +16,7 @@
 	font-size: 42px;
 	color: gray;
 	text-align: center;
+	font-family: 'Bree Serif';
 }
 
 .contact {
@@ -17,17 +26,21 @@
 	color: goldenrod;
 	font-size: .8em;
 }
+
 #bar {
 	background-color: gray;
 }
 
-.main-text {
+.sub-header {
+/*
 	position: relative;
+*/
+	text-align: center;
 	top: 30%;
-	left: 10%;
-	padding-right: 5em;
+	/* left: 10%; 
+	padding-right: 5em;*/
 	background-color: light-gray;
-	font: sans-serif;
+	font-family: 'Maven Pro';
 }
 
 
