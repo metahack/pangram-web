@@ -19,6 +19,7 @@ font-family: 'Frijole', cursive;
 	font-family: 'Bree Serif';
 }
 
+
 .contact {
 	position: absolute;
 	right: 20px;
@@ -31,7 +32,11 @@ font-family: 'Frijole', cursive;
 #bar {
 	background-color: gray;
 }
-
+#main-text {
+    background-color: goldenrod;
+    padding: 2em;
+    margin: 2em;
+}
 .sub-header {
 /*
 	position: relative;
